@@ -1,0 +1,1 @@
+print(len(set([int(x) for x in open(0)][1::])))
